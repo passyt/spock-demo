@@ -35,7 +35,7 @@ class Helloworld extends spock.lang.Specification {
         where:
         a | b | c
         3 | 7 | 3
-        5 | 4 | 5
+        5 | 4 | 4
         9 | 9 | 9
     }
 
