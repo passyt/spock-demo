@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse
 /**
  * Created by passyt on 2016/12/19.
  */
-class Servlet extends Specification {
+class ServletTest extends Specification {
 
     def test() {
         setup:

@@ -6,7 +6,7 @@ import spock.lang.Unroll
  * Created by passyt on 2016/12/19.
  */
 @Unroll
-class Argument extends Specification {
+class ArgumentTest extends Specification {
 
     def "map.put(#key, #value) == #result"() {
         setup:
